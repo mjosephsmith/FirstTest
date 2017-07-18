@@ -1,0 +1,6 @@
+C:\Code\Personal\ABA\bin\Debug\netstandard1.4\ABA.deps.json
+C:\Code\Personal\ABA\bin\Debug\netstandard1.4\ABA.dll
+C:\Code\Personal\ABA\bin\Debug\netstandard1.4\ABA.pdb
+C:\Code\Personal\ABA\obj\Debug\netstandard1.4\ABA.AssemblyInfo.cs
+C:\Code\Personal\ABA\obj\Debug\netstandard1.4\ABA.dll
+C:\Code\Personal\ABA\obj\Debug\netstandard1.4\ABA.pdb

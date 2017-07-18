@@ -1,0 +1,13 @@
+C:\Code\Personal\ABA.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Code\Personal\ABA.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Code\Personal\ABA.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Code\Personal\ABA.Tests\bin\Debug\netcoreapp1.1\ABA.Tests.deps.json
+C:\Code\Personal\ABA.Tests\bin\Debug\netcoreapp1.1\ABA.Tests.runtimeconfig.json
+C:\Code\Personal\ABA.Tests\bin\Debug\netcoreapp1.1\ABA.Tests.runtimeconfig.dev.json
+C:\Code\Personal\ABA.Tests\bin\Debug\netcoreapp1.1\ABA.Tests.dll
+C:\Code\Personal\ABA.Tests\bin\Debug\netcoreapp1.1\ABA.Tests.pdb
+C:\Code\Personal\ABA.Tests\obj\Debug\netcoreapp1.1\ABA.Tests.AssemblyInfo.cs
+C:\Code\Personal\ABA.Tests\obj\Debug\netcoreapp1.1\ABA.Tests.dll
+C:\Code\Personal\ABA.Tests\obj\Debug\netcoreapp1.1\ABA.Tests.pdb
+C:\Code\Personal\ABA.Tests\bin\Debug\netcoreapp1.1\ABA.dll
+C:\Code\Personal\ABA.Tests\bin\Debug\netcoreapp1.1\ABA.pdb
